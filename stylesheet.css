@@ -2,3 +2,12 @@ h1 {
     text-align: center;
     color: lightseagreen; 
 }
+
+li {
+    color: lightskyblue;
+    text-align: center
+}
+
+* {
+    background-color: lightslategray;
+}
