@@ -14,7 +14,8 @@ li {
 }
 
 * {
-    background-color: lightskyblue;
+    background-color: rgb(70, 156, 209);
+    font-family: 'Courier New', Courier, monospace; 
 }
 
 .images {
