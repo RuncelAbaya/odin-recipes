@@ -4,7 +4,7 @@ h1 {
 }
 
 h5 {
-    text-align: right;
+    text-align: left;
     color: midnightblue;  
 }
 
@@ -15,4 +15,10 @@ li {
 
 * {
     background-color: lightskyblue;
+}
+
+.images {
+    height: 500px;
+    width: 600px;
+    border-radius: 10%;
 }
