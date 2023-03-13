@@ -1,13 +1,18 @@
 h1 {
     text-align: center;
-    color: lightseagreen; 
+    color: midnightblue; 
+}
+
+h5 {
+    text-align: right;
+    color: midnightblue;  
 }
 
 li {
-    color: lightskyblue;
+    color: midnightblue;
     text-align: center
 }
 
 * {
-    background-color: lightcoral;
+    background-color: lightskyblue;
 }
