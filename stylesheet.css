@@ -23,3 +23,8 @@ li {
     width: 600px;
     border-radius: 10%;
 }
+
+ul, li {
+    text-align: left; 
+    color:rgb(0, 55, 88); 
+}
