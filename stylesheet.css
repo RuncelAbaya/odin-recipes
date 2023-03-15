@@ -29,18 +29,23 @@ ul, li {
     color:rgb(0, 55, 88); 
 }
 
-* {
-    border: 2px solid red
-}
+
 
 .box-one {
-    Height: auto;
-    width: 500px;
+    Height: 50px;
+    width: 50px;
+    padding: 50px;
+    border: 20px blue solid;
+    margin: 100px; 
+    background-color: salmon;
+
 
 }
 
 .box-two {
 
-    Height: auto;
+    Height: 500px;
     width: 500px; 
+    border: 2px blue solid;
+    background-color: salmon;
 }
