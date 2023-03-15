@@ -28,3 +28,19 @@ ul, li {
     text-align: left; 
     color:rgb(0, 55, 88); 
 }
+
+* {
+    border: 2px solid red
+}
+
+.box-one {
+    Height: auto;
+    width: 500px;
+
+}
+
+.box-two {
+
+    Height: auto;
+    width: 500px; 
+}
