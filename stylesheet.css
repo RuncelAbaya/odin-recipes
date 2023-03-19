@@ -34,3 +34,28 @@ li {
     margin: 100px;
 }
 
+ul, li {
+    text-align: left; 
+    color:rgb(0, 55, 88); 
+}
+
+
+
+.box-one {
+    Height: 50px;
+    width: 50px;
+    padding: 50px;
+    border: 20px blue solid;
+    margin: 100px; 
+    background-color: salmon;
+
+
+}
+
+.box-two {
+
+    Height: 500px;
+    width: 500px; 
+    border: 2px blue solid;
+    background-color: salmon;
+}
