@@ -49,3 +49,22 @@ ul, li {
     border: 2px blue solid;
     background-color: salmon;
 }
+
+.flexbox div {
+
+    display: flex;
+    height: 400px;
+    border: 20px solid slateblue;
+    padding: 20px; 
+    margin: 20px; 
+    text-align: center; 
+}
+
+.item {
+    height:200px;
+    width: 200px; 
+    border: 2px solid thistle; 
+    Display: flex; 
+    background-color: aqua;
+    margin: 20px;
+}
