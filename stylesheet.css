@@ -76,6 +76,9 @@ ul, li {
     flex: 1; 
     background-color: aqua;
     margin: 20px;
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: column;
 }
 
 .flexbox .box-two {
